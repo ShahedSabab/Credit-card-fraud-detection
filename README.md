@@ -18,13 +18,13 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 ## Performance:
 ### Linear Regression:
-<img src="lr_performance.PNG" width="70%">
+<img src="lr_performance.PNG" width="50%">
 
 ### SVM:
-<img src="svm_performance.PNG" width="70%">
+<img src="svm_performance.PNG" width="50%">
 
 ### KNN:
-<img src="knn_performance.PNG" width="70%">
+<img src="knn_performance.PNG" width="50%">
 
 ### MLP:
 <img src="mlp_performance.PNG" width="70%">
