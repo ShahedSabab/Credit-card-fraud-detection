@@ -8,4 +8,4 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 • The encoded layer is extracted from the autoencoder as a feature extraction technique. <br> 
 • The extracted features are used to train different classification models.<br>
   e.g., SVM, Logistic Regression, KNN and Artificial Neural Network (MLP). <br>
-• The best model(MLP) achieves the AUC = 0.97. <br>
+• The best model(MLP) is trained with dropout layers, L1 regularization and achieves AUC = 0.97. <br> 
