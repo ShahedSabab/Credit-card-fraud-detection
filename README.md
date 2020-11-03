@@ -28,3 +28,6 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 ### MLP:
 <img src="mlp_performance.PNG" width="70%">
+
+# How to run:
+Please check credit-fraud-detection.ipynb for the detailed analysis.
