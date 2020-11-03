@@ -3,7 +3,7 @@ The pupose of this project is to leverage machine learning and find out fradulen
 
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-• TSNE plot is used to visualize the data for separability. <br>
+• TSNE plot is used to visualize the transaction data. <br>
 • An autoencoder model is trained using the data. <br>
 • The encoded layer is extracted from the autoencoder as a feature extraction technique. <br> 
 • The extracted features are used to train different classification models.<br>
